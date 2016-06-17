@@ -1,2 +1,0 @@
-Fixing Bug 1.
-Modifying my awesome code.
