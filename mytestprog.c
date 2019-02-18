@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("This is a test program\n");
+	printf("This is our test program\n");
 	return 0;
 }
