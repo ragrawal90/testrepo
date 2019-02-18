@@ -1,3 +1,0 @@
-This is a useful file for the simulator project.
-Really.
-Adding another line.
